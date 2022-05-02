@@ -1,3 +1,5 @@
+# WARNING: to use Litematica, you need to install [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib)
+
 [![Curseforge](http://cf.way2muchnoise.eu/full_litematica_downloads.svg)](https://minecraft.curseforge.com/projects/litematica) [![Curseforge](http://cf.way2muchnoise.eu/versions/For%20MC_litematica_all.svg)](https://minecraft.curseforge.com/projects/litematica)
 
 ## Litematica
